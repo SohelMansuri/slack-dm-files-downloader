@@ -17,7 +17,7 @@ This project is basically a fork of [auino/slack-downloader](https://github.com/
 
 ### Installation Instructions
 
-1. Download the script from the project [slack-dm-files-downloader]()
+1. Download the script from the project [slack-dm-files-downloader](https://github.com/SohelMansuri/slack-dm-files-downloader/blob/master/slack_dm_files_downloader.py)
 2. After downloading, move this file and place it in the same directory that contains "direct_messages" folder created by the (slack_history) project.
 3. Run the script with Slack API token:
 ```
