@@ -23,7 +23,9 @@ This project is basically a fork of [auino/slack-downloader](https://github.com/
 ```
     python slack-dm-files-downloader.py --token="SLACK-API-TOKEN-HERE"
 ```
-4. Have fun!
+4. A new directory "direct_message_files" will be created, containing your direct message files that were downloaded, separated by each user (including yourself).
+5. A file "files_not_downloaded.txt" will also be created, giving you direct links to files the script was not able to download.  For several reasons: A) If the file was shared from another direct message.  B) If a file was shared using an app like Google Drive.
+6.  Have fun!
 
 ### Contact Information ###
 
